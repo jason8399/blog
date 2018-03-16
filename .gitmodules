@@ -1,0 +1,3 @@
+[submodule "themes/overdose"]
+	path = themes/overdose
+	url = git@github.com:jason8399/hexo-theme-overdose.git
